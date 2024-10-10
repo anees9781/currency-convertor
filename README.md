@@ -1,4 +1,4 @@
-** currency-convertor**
+**currency-convertor**
 Enter the amount you wish to convert.
 Select the "From" currency using the dropdown menu and corresponding flag.
 Select the "To" currency using the dropdown menu and corresponding flag.
@@ -17,7 +17,7 @@ Responsive design that works well on all device sizes.
 
 
 
-** Technologies Used**
+**Technologies Used**
   HTML5: Markup language for structuring the web page.
   CSS3: Styling of the web page.
   JavaScript: Logic for handling currency conversions.
